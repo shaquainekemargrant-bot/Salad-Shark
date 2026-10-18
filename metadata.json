@@ -1,0 +1,8 @@
+{
+  "name": "Salad Shark",
+  "description": "Fast-paced chaotic 2D arcade mini-game where you steer a vegetarian shark to chomp falling fresh veggies and dodge unwholesome raw meats!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
